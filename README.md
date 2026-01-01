@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Mohanrajgk
-- 👀 I’m interested in software development
+- 👀 I’m a Software Development Engineer
 - 🌱 I’m currently solving leetcode problems
-- exploring new tech stacks
+- exploring new and old tech stacks
+- Training peoples on mainframe tech stack
+- eploring Legacy business Application codes 
 
 <!---
 Mohanrajgk/Mohanrajgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
